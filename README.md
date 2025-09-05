@@ -1,7 +1,7 @@
 # 🍄 Mushroom Classification with PCA and Logistic Regression
 
-## 📌 Project Overview
-This project focuses on classifying mushrooms as **edible** or **poisonous** using machine learning techniques. The dataset is transformed and analyzed using **Principal Component Analysis (PCA)** to explore dimensionality reduction and its effect on classification performance.  
+## 📌 Assignment Overview
+This assignment focuses on classifying mushrooms as **edible** or **poisonous** using machine learning techniques. The dataset is transformed and analyzed using **Principal Component Analysis (PCA)** to explore dimensionality reduction and its effect on classification performance.  
 A **Logistic Regression** model is trained both on the **original dataset** and the **PCA-transformed dataset** to compare performance.
 
 ---
